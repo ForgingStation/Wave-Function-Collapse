@@ -7,5 +7,7 @@ It took a while to even understand how unity deals with vertex positions and how
 Took me a while this one. This is extremely inefficient but readable at this point. Share your feedback/suggestions  on optimization and ways to improve the approach I am taking here!
 For now, computing valid neighbours and propogating collapse is taking a lot of time.
 
+Know more about this build - https://youtu.be/Y2mYQ7tqIQg
+
 
 
