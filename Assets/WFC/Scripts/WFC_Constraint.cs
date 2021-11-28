@@ -12,7 +12,10 @@ public class WFC_Constraint
             //Compare oppossing sockets
             for (int j = 0; j < allProtoTypes.wfc_prototypeList.Count; j++)
             {
-                if (allProtoTypes.wfc_prototypeList[i].right_SocketCode == allProtoTypes.wfc_prototypeList[j].left_SocketCode)
+                if (allProtoTypes.wfc_prototypeList[i].right_SocketCode == allProtoTypes.wfc_prototypeList[j].left_SocketCode ||
+                    allProtoTypes.wfc_prototypeList[i].left_SocketCode == allProtoTypes.wfc_prototypeList[j].right_SocketCode ||
+                    allProtoTypes.wfc_prototypeList[i].front_SocketCode == allProtoTypes.wfc_prototypeList[j].back_SocketCode ||
+                    allProtoTypes.wfc_prototypeList[i].back_SocketCode == allProtoTypes.wfc_prototypeList[j].front_SocketCode)
                 {
                     Valid_Neighbours neighbour = new Valid_Neighbours();
                     neighbour.prefab = allProtoTypes.wfc_prototypeList[j].prefab;
@@ -23,54 +26,6 @@ public class WFC_Constraint
                     neighbour.rotationIndex = allProtoTypes.wfc_prototypeList[j].rotationIndex;
 
                     if (allProtoTypes.wfc_prototypeList[i].ValidNeighboursList!=null && !allProtoTypes.wfc_prototypeList[i].ValidNeighboursList.Contains(neighbour))
-                    {
-                        allProtoTypes.wfc_prototypeList[i].ValidNeighboursList.Add(neighbour);
-                    }
-                }
-
-                if (allProtoTypes.wfc_prototypeList[i].left_SocketCode == allProtoTypes.wfc_prototypeList[j].right_SocketCode)
-                {
-                    Valid_Neighbours neighbour = new Valid_Neighbours();
-                    neighbour.prefab = allProtoTypes.wfc_prototypeList[j].prefab;
-                    neighbour.front_SocketCode = allProtoTypes.wfc_prototypeList[j].front_SocketCode;
-                    neighbour.back_SocketCode = allProtoTypes.wfc_prototypeList[j].back_SocketCode;
-                    neighbour.right_SocketCode = allProtoTypes.wfc_prototypeList[j].right_SocketCode;
-                    neighbour.left_SocketCode = allProtoTypes.wfc_prototypeList[j].left_SocketCode;
-                    neighbour.rotationIndex = allProtoTypes.wfc_prototypeList[j].rotationIndex;
-
-                    if (allProtoTypes.wfc_prototypeList[i].ValidNeighboursList != null && !allProtoTypes.wfc_prototypeList[i].ValidNeighboursList.Contains(neighbour))
-                    {
-                        allProtoTypes.wfc_prototypeList[i].ValidNeighboursList.Add(neighbour);
-                    }
-                }
-
-                if (allProtoTypes.wfc_prototypeList[i].front_SocketCode == allProtoTypes.wfc_prototypeList[j].back_SocketCode)
-                {
-                    Valid_Neighbours neighbour = new Valid_Neighbours();
-                    neighbour.prefab = allProtoTypes.wfc_prototypeList[j].prefab;
-                    neighbour.front_SocketCode = allProtoTypes.wfc_prototypeList[j].front_SocketCode;
-                    neighbour.back_SocketCode = allProtoTypes.wfc_prototypeList[j].back_SocketCode;
-                    neighbour.right_SocketCode = allProtoTypes.wfc_prototypeList[j].right_SocketCode;
-                    neighbour.left_SocketCode = allProtoTypes.wfc_prototypeList[j].left_SocketCode;
-                    neighbour.rotationIndex = allProtoTypes.wfc_prototypeList[j].rotationIndex;
-
-                    if (allProtoTypes.wfc_prototypeList[i].ValidNeighboursList != null && !allProtoTypes.wfc_prototypeList[i].ValidNeighboursList.Contains(neighbour))
-                    {
-                        allProtoTypes.wfc_prototypeList[i].ValidNeighboursList.Add(neighbour);
-                    }
-                }
-
-                if (allProtoTypes.wfc_prototypeList[i].back_SocketCode == allProtoTypes.wfc_prototypeList[j].front_SocketCode)
-                {
-                    Valid_Neighbours neighbour = new Valid_Neighbours();
-                    neighbour.prefab = allProtoTypes.wfc_prototypeList[j].prefab;
-                    neighbour.front_SocketCode = allProtoTypes.wfc_prototypeList[j].front_SocketCode;
-                    neighbour.back_SocketCode = allProtoTypes.wfc_prototypeList[j].back_SocketCode;
-                    neighbour.right_SocketCode = allProtoTypes.wfc_prototypeList[j].right_SocketCode;
-                    neighbour.left_SocketCode = allProtoTypes.wfc_prototypeList[j].left_SocketCode;
-                    neighbour.rotationIndex = allProtoTypes.wfc_prototypeList[j].rotationIndex;
-
-                    if (allProtoTypes.wfc_prototypeList[i].ValidNeighboursList != null && !allProtoTypes.wfc_prototypeList[i].ValidNeighboursList.Contains(neighbour))
                     {
                         allProtoTypes.wfc_prototypeList[i].ValidNeighboursList.Add(neighbour);
                     }

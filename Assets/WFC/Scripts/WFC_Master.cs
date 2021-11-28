@@ -38,8 +38,8 @@ public class WFC_Master : MonoBehaviour
         addDefaultProtoType();
         allocatePossiblitySpace();
         collpaseRandom();
-        string json = JsonUtility.ToJson(allProtoTypesList, true);
-        File.WriteAllText(Application.dataPath + "/Custom Assets/WFC/Prototype/Prototype.json", json);
+        //string json = JsonUtility.ToJson(allProtoTypesList, true);
+        //File.WriteAllText(Application.dataPath + "/Custom Assets/WFC/Prototype/Prototype.json", json);
     }
 
     // Update is called once per frame
@@ -362,9 +362,9 @@ public class WFC_Master : MonoBehaviour
                     allCells.TryGetValue(rightCell, out rightCell_WptList);
                     WFC_PrototypeList newRightCell_WptList = new WFC_PrototypeList();
                     newRightCell_WptList = compareProtoType_Neighbours(currentCell_WptList.wfc_prototypeList[j].ValidNeighboursList, rightCell_WptList);
-                    allCells[rightCell] = newRightCell_WptList;
-                    if (!processedCells.Contains(rightCell))
+                    if (!processedCells.Contains(rightCell) && allCells[rightCell].wfc_prototypeList.Count > newRightCell_WptList.wfc_prototypeList.Count)
                     {
+                        allCells[rightCell] = newRightCell_WptList;
                         cellsToProcess.Add(rightCell);
                     }
                 }
@@ -376,9 +376,9 @@ public class WFC_Master : MonoBehaviour
                     allCells.TryGetValue(leftCell, out leftCell_WptList);
                     WFC_PrototypeList newLeftCell_WptList = new WFC_PrototypeList();
                     newLeftCell_WptList = compareProtoType_Neighbours(currentCell_WptList.wfc_prototypeList[j].ValidNeighboursList, leftCell_WptList);
-                    allCells[leftCell] = newLeftCell_WptList;
-                    if (!processedCells.Contains(leftCell))
+                    if (!processedCells.Contains(leftCell) && allCells[leftCell].wfc_prototypeList.Count > newLeftCell_WptList.wfc_prototypeList.Count)
                     {
+                        allCells[leftCell] = newLeftCell_WptList;
                         cellsToProcess.Add(leftCell);
                     }
                 }
@@ -390,9 +390,9 @@ public class WFC_Master : MonoBehaviour
                     allCells.TryGetValue(frontCell, out frontCell_WptList);
                     WFC_PrototypeList newFrontCell_WptList = new WFC_PrototypeList();
                     newFrontCell_WptList = compareProtoType_Neighbours(currentCell_WptList.wfc_prototypeList[j].ValidNeighboursList, frontCell_WptList);
-                    allCells[frontCell] = newFrontCell_WptList;
-                    if (!processedCells.Contains(frontCell))
+                    if (!processedCells.Contains(frontCell) && allCells[frontCell].wfc_prototypeList.Count > newFrontCell_WptList.wfc_prototypeList.Count)
                     {
+                        allCells[frontCell] = newFrontCell_WptList;
                         cellsToProcess.Add(frontCell);
                     }
                 }
@@ -404,9 +404,9 @@ public class WFC_Master : MonoBehaviour
                     allCells.TryGetValue(backCell, out backCell_WptList);
                     WFC_PrototypeList newBackCell_WptList = new WFC_PrototypeList();
                     newBackCell_WptList = compareProtoType_Neighbours(currentCell_WptList.wfc_prototypeList[j].ValidNeighboursList, backCell_WptList);
-                    allCells[backCell] = newBackCell_WptList;
-                    if (!processedCells.Contains(backCell))
+                    if (!processedCells.Contains(backCell) && allCells[backCell].wfc_prototypeList.Count > newBackCell_WptList.wfc_prototypeList.Count)
                     {
+                        allCells[backCell] = newBackCell_WptList;
                         cellsToProcess.Add(backCell);
                     }
                 }
