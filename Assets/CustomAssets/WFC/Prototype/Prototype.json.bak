@@ -1,0 +1,1324 @@
+{
+    "wfc_prototypeList": [
+        {
+            "prefab": {
+                "instanceID": 39736
+            },
+            "rotationIndex": 0,
+            "front_SocketCode": "1926",
+            "back_SocketCode": "1926",
+            "right_SocketCode": "1890",
+            "left_SocketCode": "1890",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        },
+        {
+            "prefab": {
+                "instanceID": 39736
+            },
+            "rotationIndex": 90,
+            "front_SocketCode": "1926",
+            "back_SocketCode": "1926",
+            "right_SocketCode": "1890",
+            "left_SocketCode": "1890",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        },
+        {
+            "prefab": {
+                "instanceID": 39736
+            },
+            "rotationIndex": 180,
+            "front_SocketCode": "1926",
+            "back_SocketCode": "1926",
+            "right_SocketCode": "1890",
+            "left_SocketCode": "1890",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        },
+        {
+            "prefab": {
+                "instanceID": 39736
+            },
+            "rotationIndex": 270,
+            "front_SocketCode": "1926",
+            "back_SocketCode": "1926",
+            "right_SocketCode": "1890",
+            "left_SocketCode": "1890",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        },
+        {
+            "prefab": {
+                "instanceID": 39740
+            },
+            "rotationIndex": 270,
+            "front_SocketCode": "901",
+            "back_SocketCode": "901",
+            "right_SocketCode": "901",
+            "left_SocketCode": "901",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        },
+        {
+            "prefab": {
+                "instanceID": 39740
+            },
+            "rotationIndex": 0,
+            "front_SocketCode": "901",
+            "back_SocketCode": "901",
+            "right_SocketCode": "901",
+            "left_SocketCode": "901",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        },
+        {
+            "prefab": {
+                "instanceID": 39740
+            },
+            "rotationIndex": 90,
+            "front_SocketCode": "901",
+            "back_SocketCode": "901",
+            "right_SocketCode": "901",
+            "left_SocketCode": "901",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        },
+        {
+            "prefab": {
+                "instanceID": 39740
+            },
+            "rotationIndex": 180,
+            "front_SocketCode": "901",
+            "back_SocketCode": "901",
+            "right_SocketCode": "901",
+            "left_SocketCode": "901",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39744
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        },
+        {
+            "prefab": {
+                "instanceID": 39744
+            },
+            "rotationIndex": 0,
+            "front_SocketCode": "901",
+            "back_SocketCode": "901",
+            "right_SocketCode": "1890",
+            "left_SocketCode": "1890",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        },
+        {
+            "prefab": {
+                "instanceID": 39744
+            },
+            "rotationIndex": 90,
+            "front_SocketCode": "1926",
+            "back_SocketCode": "1926",
+            "right_SocketCode": "901",
+            "left_SocketCode": "901",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        },
+        {
+            "prefab": {
+                "instanceID": 39744
+            },
+            "rotationIndex": 180,
+            "front_SocketCode": "901",
+            "back_SocketCode": "901",
+            "right_SocketCode": "1890",
+            "left_SocketCode": "1890",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        },
+        {
+            "prefab": {
+                "instanceID": 39744
+            },
+            "rotationIndex": 270,
+            "front_SocketCode": "1926",
+            "back_SocketCode": "1926",
+            "right_SocketCode": "901",
+            "left_SocketCode": "901",
+            "top_SocketCode": "",
+            "bottom_SocketCode": "",
+            "ValidNeighboursList": [
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39736
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "1926",
+                    "back_SocketCode": "1926",
+                    "right_SocketCode": "1890",
+                    "left_SocketCode": "1890",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 270,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 0,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 90,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                },
+                {
+                    "prefab": {
+                        "instanceID": 39740
+                    },
+                    "rotationIndex": 180,
+                    "front_SocketCode": "901",
+                    "back_SocketCode": "901",
+                    "right_SocketCode": "901",
+                    "left_SocketCode": "901",
+                    "top_SocketCode": "",
+                    "bottom_SocketCode": ""
+                }
+            ]
+        }
+    ]
+}
